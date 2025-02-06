@@ -6,6 +6,8 @@ Features
 ✅ User-defined password length
 ✅ Randomized characters (letters, numbers, symbols)
 ✅ Secure and easy to use
+<img width="1192" alt="Screenshot 2025-02-06 at 3 35 15 PM" src="https://github.com/user-attachments/assets/292465ca-cc31-4ef1-be7e-87c841585151" />
+
 
 Installation
 Clone the repository to your local machine:
